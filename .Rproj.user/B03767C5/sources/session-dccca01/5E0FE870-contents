@@ -1,0 +1,12 @@
+# Install any missing packages
+install.packages(c("tidyr", "ggplot2", "RColorBrewer"))
+
+# Source the R scripts
+source("./src/generateData.R")
+source("./src/plotData.R")
+
+# Run the generateData() function using the initial parameters
+generateData("./data/small.csv")
+
+# Generate a plot for the small dataset
+plotData("./data/small.csv")

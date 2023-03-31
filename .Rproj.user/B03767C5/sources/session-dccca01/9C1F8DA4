@@ -1,0 +1,26 @@
+{
+    "id": "9C1F8DA4",
+    "path": "~/Desktop/test-r/src/generateData.R",
+    "project_path": "src/generateData.R",
+    "type": "r_source",
+    "hash": "2584545342",
+    "contents": "",
+    "dirty": false,
+    "created": 1680279470028.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "59,44",
+        "scrollLine": "43"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1680279834,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1680279834247,
+    "read_only": false,
+    "read_only_alternatives": []
+}
